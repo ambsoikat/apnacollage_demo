@@ -1,4 +1,4 @@
 # apnacollage_demo
 This is my frist Git Repository.
 <br>
-Author - Amb Soikat.
+Author - Amb Soikat (Apna Collage)
